@@ -1,4 +1,4 @@
-package henryjeremiah;
+package com.henryjeremiah;
 
 public class Main {
         public static void main(String[] args) {
