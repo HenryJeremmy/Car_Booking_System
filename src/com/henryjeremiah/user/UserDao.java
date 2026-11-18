@@ -10,4 +10,8 @@ public class UserDao {
                 new User(UUID.fromString("b10d126a-3608-4980-9f9c-aa179f5cebc3"), "Mikel")
         };
     }
+
+    public User[] getUsers(){
+        return users;
+    }
 }
